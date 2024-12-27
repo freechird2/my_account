@@ -24,7 +24,9 @@
       "@/components/*": ["src/components/*"],
       "@/styles/*": ["src/styles/*"],
       "@/lib/*": ["src/lib/*"],
-      "@/remote/*": ["src/remote/*"]
+      "@/remote/*": ["src/remote/*"],
+      "@/constants/*": ["src/constants/*"],
+      "@/mock/*": ["src/mock/*"]
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
